@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "start_time": "2025-03-01T03:22:16.715501",
+        "end_time": null,
+        "duration_minutes": 0,
+        "status": "running",
+        "task_id": 1
+    },
+    {
+        "id": 2,
+        "start_time": "2025-03-01T03:22:16.737761",
+        "end_time": "2025-03-01T03:47:16.744108",
+        "duration_minutes": 25.000105783333332,
+        "status": "completed",
+        "task_id": null
+    },
+    {
+        "id": 3,
+        "start_time": "2025-03-01T03:22:16.762065",
+        "end_time": null,
+        "duration_minutes": 0,
+        "status": "running",
+        "task_id": null
+    },
+    {
+        "id": 4,
+        "start_time": "2025-03-01T03:22:16.775896",
+        "end_time": null,
+        "duration_minutes": 0,
+        "status": "running",
+        "task_id": null
+    }
+]
